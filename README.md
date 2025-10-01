@@ -1,2 +1,2 @@
 # GeodeSupport
-Required Support Page for App Store Publication
+For support with Geode, contact cbj19@duke.edu.
